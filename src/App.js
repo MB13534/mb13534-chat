@@ -12,13 +12,13 @@ import "./App.css";
 
 //this object comes from creating your app in firebase
 firebase.initializeApp({
-  apiKey: "AIzaSyDwNSlxQ-L5lFcBctdXPxc62D05s0nKlkY",
-  authDomain: "milkmarketcounter.firebaseapp.com",
-  projectId: "milkmarketcounter",
-  storageBucket: "milkmarketcounter.appspot.com",
-  messagingSenderId: "931111239045",
-  appId: "1:931111239045:web:d89accb1cfbfbcd04ad8ec",
-  measurementId: "G-D1EDYVPKY8",
+  apiKey: "AIzaSyDoVH0OF2F313oe9qCJCd5BshX9L5uFRF8",
+  authDomain: "mb13534-chat.firebaseapp.com",
+  projectId: "mb13534-chat",
+  storageBucket: "mb13534-chat.appspot.com",
+  messagingSenderId: "548678772873",
+  appId: "1:548678772873:web:dad7b9c873fcc5b3017e58",
+  measurementId: "G-CPCB6XERNW",
 });
 
 const auth = firebase.auth();
